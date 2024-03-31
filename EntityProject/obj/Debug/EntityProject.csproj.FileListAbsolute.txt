@@ -1,0 +1,17 @@
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\bin\Debug\EntityProject.exe.config
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\bin\Debug\EntityProject.exe
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\bin\Debug\EntityProject.pdb
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\bin\Debug\EntityFramework.dll
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\bin\Debug\EntityFramework.xml
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\obj\Debug\EntityProject.csproj.AssemblyReference.cache
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\obj\Debug\EntityProject.frmKatmanliMimari.resources
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\obj\Debug\EntityProject.Properties.Resources.resources
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\obj\Debug\EntityProject.csproj.GenerateResource.cache
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\obj\Debug\EntityProject.csproj.CoreCompileInputs.cache
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\obj\Debug\EntityPr.B6D68385.Up2Date
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\obj\Debug\EntityProject.exe
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\obj\Debug\EntityProject.pdb
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\bin\Debug\Sitecore.FakeDb.dll
+C:\Users\karac\OneDrive\Masaüstü\Projem\EntityProject\EntityProject\bin\Debug\Sitecore.FakeDb.xml
